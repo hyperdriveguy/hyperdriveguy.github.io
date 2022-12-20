@@ -17,10 +17,16 @@
 * Bathroom cleaner
 * Magic erasers
 
+### Toiletries
+* Shampoo
+* Conditioner
+* Deodorant, **no anti-perspirant** (ideally Old Spice)
+
 ## Fun
 
 ### Electronics
 * [ESP32 microcontroller](https://www.amazon.com/s?k=esp32)
+   * These things are cheap powerhouses
 * [Soldering iron with adjustable temperature control, "helping hands"](https://www.amazon.com/s?k=soldering+iron+for+small+electronics+with+helping+hands)
 * [Phone game controller](https://www.amazon.com/s?k=phone+game+controller)
     * Who needs a Switch lmao
