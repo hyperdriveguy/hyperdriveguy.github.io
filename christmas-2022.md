@@ -31,5 +31,6 @@
 * [Phone game controller](https://www.amazon.com/s?k=phone+game+controller)
     * Who needs a Switch lmao
     * It'll be fun for developing a game with
+* [512 GB or greater M.2 SSD](https://www.amazon.com/s?k=silicon+power+ssd+m.2&crid=NYGL3X7MA73E&sprefix=silicon+power+ssd+m.%2Caps%2C137&ref=nb_sb_noss_2)
 
 
