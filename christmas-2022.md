@@ -22,6 +22,9 @@
 * Conditioner
 * Deodorant, **no anti-perspirant** (ideally Old Spice)
 
+### School
+* Help with tuition lmao
+
 ## Fun
 
 ### Electronics
